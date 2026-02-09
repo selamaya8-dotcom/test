@@ -1,2 +1,2 @@
-# test
+# git-practice
 This is my first Git Repository
